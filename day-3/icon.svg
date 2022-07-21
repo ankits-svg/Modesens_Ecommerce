@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-monogram_b_1);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-monogram_b_1">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="monogram_b_1" data-name="monogram_b – 1" class="cls-1">
+    <rect id="矩形_2818" data-name="矩形 2818" class="cls-2" width="30" height="30" rx="5"/>
+    <g id="Final_Logo_Mark-02" data-name="Final_Logo+Mark-02" transform="translate(-873.9 -456.199)">
+      <path id="路径_9" data-name="路径 9" d="M918.539,494.208v14.844H916.1V494.638l-6.849,14.443h-.917L901.8,494.638v14.414h-.974V494.208c0-1.347-.029-2.608-.029-2.608h2.321l6.476,14.386,6.849-14.386h2.092Z" transform="translate(-20.618 -29.536)"/>
+    </g>
+  </g>
+</svg>
