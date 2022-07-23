@@ -131,29 +131,63 @@ hr{
 .cont51 p{
     font-size: 18px;
     font-weight: bold;
-}
-.summer-box{
-    position: relative;
-    width: 100%;
-}
-.summmer{
+}.foot{
     /* border: 1px solid red; */
-    width: 100%;
-    height: 40px;
-    background-color: black;
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: 280px;
+    gap: 40px;
+    cursor: pointer;
 }
-.summmer>img{
-    width: 20px;
-    margin-left: 32%;
-    margin-top: 10px;
+.foot div{
+    /* border: 1px solid black; */
+    margin-left: 7px;
+    margin-top: 9px;
+    color: grey;
 }
-.summmer>h2{
-    text-align: center;
-    color: white;
-    margin-top: -25px;
-    font-size: 17px;
+.last button{
+    margin-left: 20px;
+    margin-top: 30px;
+    padding: 10px 90px;
+    color: black;
+    border-color: black;
+    background-color: white;
 }
-
+.last button:hover{
+    background-color: grey;
+    cursor: pointer;
+}
+.patent{
+    /* border: 1px solid black; */
+    width: 80%;
+    margin: auto;
+    display: grid;
+    
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: 40px;
+    gap: 30px;
+}
+.patent div{
+    /* border: 1px solid red; */
+    display: flex;
+    
+}
+.patent div>img{
+    width: 5%;
+    
+}
+.social{
+    display: grid;
+    justify-content: flex-end;
+}
+hr{
+    width: 80%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 /* *{
     margin: 0;
     padding: 0;
@@ -326,61 +360,24 @@ body{
 }
 
 
-hr{
-    width: 80%;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    /* margin-left: 40px; */
+.summer-box{
+    position: relative;
+    width: 100%;
 }
-.foot{
+.summmer{
     /* border: 1px solid red; */
-    width: 80%;
-    height: 300px;
-    margin: auto;
-    display: grid;
-    grid-template-columns: repeat(5,1fr);
-    grid-template-rows: 280px;
-    gap: 40px;
-    cursor: pointer;
+    width: 100%;
+    height: 40px;
+    background-color: black;
 }
-.foot div{
-    /* border: 1px solid black; */
-    margin-left: 7px;
-    margin-top: 9px;
-    color: grey;
+.summmer>img{
+    width: 20px;
+    margin-left: 32%;
+    margin-top: 10px;
 }
-.last button{
-    margin-left: 20px;
-    margin-top: 30px;
-    padding: 10px 90px;
-    color: black;
-    border-color: black;
-    background-color: white;
-}
-.last button:hover{
-    background-color: grey;
-    cursor: pointer;
-}
-.patent{
-    /* border: 1px solid black; */
-    width: 80%;
-    margin: auto;
-    display: grid;
-    
-    grid-template-columns: repeat(2,1fr);
-    grid-template-rows: 40px;
-    gap: 30px;
-}
-.patent div{
-    /* border: 1px solid red; */
-    display: flex;
-    
-}
-.patent div>img{
-    width: 5%;
-    
-}
-.social{
-    display: grid;
-    justify-content: flex-end;
+.summmer>h2{
+    text-align: center;
+    color: white;
+    margin-top: -25px;
+    font-size: 17px;
 }
