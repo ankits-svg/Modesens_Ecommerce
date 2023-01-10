@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/103572350/211598824-bee6be79-97b0-46d0
 
 PRODUCT PAGE:
 
-(https://user-images.githubusercontent.com/103572350/211598834-a91f67d6-ce22-4f3d-a2f9-5520fb6e6c2f.png)
+https://user-images.githubusercontent.com/103572350/211598834-a91f67d6-ce22-4f3d-a2f9-5520fb6e6c2f.png
 
 
 MISCELLANEOUS PAGE:
