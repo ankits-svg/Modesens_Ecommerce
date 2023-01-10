@@ -2,7 +2,7 @@ Construct-Week-Project-Unit-2
 
 Modesens E-commerce Website
 
-Its an Individual Project on "https://www.https://modesens.com/" under Construct Week of UNIT - 2 (Async) in MASAI Full-Stack Web Development Course.
+Its an Individual Project on "https://teal-axolotl-dc6e0a.netlify.app/index.html" under Construct Week of UNIT - 2 (Async) in MASAI Full-Stack Web Development Course.
 
 #Built mostly 6 pages :-
 
