@@ -2,7 +2,7 @@ Construct-Week-Project-Unit
 
 Modesens E-commerce Website
 
-Its an Individual Project on "https://www.https://modesens.com//" under Construct Week of UNIT - 2 (Async) in MASAI Full-Stack Web Development Course.
+Its an Individual Project on "https://www.https://modesens.com/" under Construct Week of UNIT - 2 (Async) in MASAI Full-Stack Web Development Course.
 
 #Built mostly 6 pages :-
 
@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/103572350/211598824-bee6be79-97b0-46d0
 
 PRODUCT PAGE:
 
-https://user-images.githubusercontent.com/103572350/211598834-a91f67d6-ce22-4f3d-a2f9-5520fb6e6c2f.png
+(https://user-images.githubusercontent.com/103572350/211598834-a91f67d6-ce22-4f3d-a2f9-5520fb6e6c2f.png)
 
 
 MISCELLANEOUS PAGE:
